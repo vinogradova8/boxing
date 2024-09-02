@@ -2,7 +2,7 @@
   {
     "id": 1,
     "language": "eng",
-    "media": "team-images/trainer-1.jpg",
+    "media": "team-images/trainer-1.png",
     "name": "Pitek Vitaly",
     "level": "IBA 1-star trainer.",
     "info": "He has successful experience in working with children, adult men and women."
@@ -11,13 +11,13 @@
   {
     "id": 2,
     "language": "eng",
-    "media": "team-images/trainer-2.jpg",
+    "media": "team-images/trainer-2.png",
     "name": "Cherednychenko Volodymyr",
     "level": "Coach of the national category of Ukraine.",
     "info": "He has great and successful experience in working with children, adults and children with disabilities."
   },
 
-	{
+  {
     "id": 3,
     "language": "ukr",
     "media": "team-images/trainer-1.jpg",
@@ -35,7 +35,7 @@
     "info": "ukr"
   },
 
-	{
+  {
     "id": 5,
     "language": "deu",
     "media": "team-images/trainer-1.jpg",
