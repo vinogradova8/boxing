@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "language": "eng",
     "media": "team-images/trainer-1.png",
     "name": "Pitek Vitaly",
@@ -9,7 +9,7 @@
   },
 
   {
-    "id": 2,
+    "id": "2",
     "language": "eng",
     "media": "team-images/trainer-2.png",
     "name": "Cherednychenko Volodymyr",
@@ -18,7 +18,7 @@
   },
 
   {
-    "id": 3,
+    "id": "3",
     "language": "ukr",
     "media": "team-images/trainer-1.png",
     "name": "Пітек Віталій",
@@ -27,7 +27,7 @@
   },
 
   {
-    "id": 4,
+    "id": "4",
     "language": "ukr",
     "media": "team-images/trainer-2.png",
     "name": "Чередниченко Володимир",
@@ -36,7 +36,7 @@
   },
 
   {
-    "id": 5,
+    "id": "5",
     "language": "deu",
     "media": "team-images/trainer-1.png",
     "name": "Pitek Vitaly",
@@ -45,7 +45,7 @@
   },
 
   {
-    "id": 6,
+    "id": "6",
     "language": "deu",
     "media": "team-images/trainer-2.png",
     "name": "Cherednychenko Volodymyr",
