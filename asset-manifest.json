@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.e4af5a9c.css",
-    "main.js": "./static/js/main.8ff57c9f.js",
+    "main.css": "./static/css/main.e8956906.css",
+    "main.js": "./static/js/main.a696d3b3.js",
+    "static/media/not-found-page-background-image.png": "./static/media/not-found-page-background-image.13f0bc0188056d2dc5f2.png",
     "static/media/support-background-image.png": "./static/media/support-background-image.e270560198df80526eff.png",
     "static/media/faq-background-image.png": "./static/media/faq-background-image.750da4077f809226392a.png",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
@@ -13,6 +14,7 @@
     "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
     "static/media/Thunder-LC.ttf": "./static/media/Thunder-LC.6a44dc1751b89dd268d1.ttf",
     "static/media/Thunder-LC.otf": "./static/media/Thunder-LC.f77c8e39ff6965a0c91e.otf",
+    "static/media/decor-nock-out.png": "./static/media/decor-nock-out.bd6f6e83c4edb0c60cb4.png",
     "static/media/decor-punching-bag.png": "./static/media/decor-punching-bag.52b10597636c99ad4c1c.png",
     "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
     "static/media/decor-bag.png": "./static/media/decor-bag.4ff12a00e236179dd76f.png",
@@ -30,11 +32,11 @@
     "static/media/attention.svg": "./static/media/attention.728e152ed974104ef6f8.svg",
     "static/media/close.svg": "./static/media/close.8e763107dae2da807bc9.svg",
     "static/media/menu.svg": "./static/media/menu.bdec33d071737dba3902.svg",
-    "main.e4af5a9c.css.map": "./static/css/main.e4af5a9c.css.map",
-    "main.8ff57c9f.js.map": "./static/js/main.8ff57c9f.js.map"
+    "main.e8956906.css.map": "./static/css/main.e8956906.css.map",
+    "main.a696d3b3.js.map": "./static/js/main.a696d3b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4af5a9c.css",
-    "static/js/main.8ff57c9f.js"
+    "static/css/main.e8956906.css",
+    "static/js/main.a696d3b3.js"
   ]
 }
