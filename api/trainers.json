@@ -5,7 +5,7 @@
     "media": "team-images/trainer-1.png",
     "name": "Pitek Vitaly",
     "level": "IBA 1-star trainer.",
-    "info": "He has successful experience in working with children, adult men and women."
+    "experience": "He has successful experience in working with children, adult men and women."
   },
 
   {
@@ -14,7 +14,7 @@
     "media": "team-images/trainer-2.png",
     "name": "Cherednychenko Volodymyr",
     "level": "Coach of the national category of Ukraine.",
-    "info": "He has great and successful experience in working with children, adults and children with disabilities."
+    "experience": "He has great and successful experience in working with children, adults and children with disabilities."
   },
 
   {
@@ -22,8 +22,8 @@
     "language": "ukr",
     "media": "team-images/trainer-1.png",
     "name": "Пітек Віталій",
-    "level": "ukr",
-    "info": "ukr"
+    "level": "1-зірковий тренер IBA. ",
+    "experience": "Має успішний досвід роботи з дітьми, дорослими чоловіками та жінками."
   },
 
   {
@@ -31,8 +31,8 @@
     "language": "ukr",
     "media": "team-images/trainer-2.png",
     "name": "Чередниченко Володимир",
-    "level": "ukr",
-    "info": "ukr"
+    "level": "Тренер національної категорії України. ",
+    "experience": "Має великий та успішний досвід роботи з дітьми, дорослими та дітьми з інвалідністю."
   },
 
   {
@@ -40,8 +40,8 @@
     "language": "deu",
     "media": "team-images/trainer-1.png",
     "name": "Pitek Vitaly",
-    "level": "deu",
-    "info": "deu"
+    "level": "IBA 1-Stern-Trainer.",
+    "experience": "Er hat erfolgreiche Erfahrung in der Arbeit mit Kindern, erwachsenen Männern und von Frauen."
   },
 
   {
@@ -49,7 +49,7 @@
     "language": "deu",
     "media": "team-images/trainer-2.png",
     "name": "Cherednychenko Volodymyr",
-    "level": "deu",
-    "info": "deu"
+    "level": "Trainer der nationalen Kategorie der Ukraine.",
+    "experience": "Er hat große und erfolgreiche Erfahrung in der Arbeit mit Kindern, Erwachsenen und Kindern mit Behinderungen."
   }
 ]
