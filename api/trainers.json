@@ -5,7 +5,7 @@
     "media": "team-images/trainer-1.png",
     "name": "Pitek Vitaly",
     "level": "IBA 1-star trainer.",
-    "experience": "He has successful experience in working with children, adult men and women."
+    "info": "He has successful experience in working with children, adult men and women."
   },
 
   {
@@ -14,7 +14,7 @@
     "media": "team-images/trainer-2.png",
     "name": "Cherednychenko Volodymyr",
     "level": "Coach of the national category of Ukraine.",
-    "experience": "He has great and successful experience in working with children, adults and children with disabilities."
+    "info": "He has great and successful experience in working with children, adults and children with disabilities."
   },
 
   {
@@ -23,7 +23,7 @@
     "media": "team-images/trainer-1.png",
     "name": "Пітек Віталій",
     "level": "1-зірковий тренер IBA. ",
-    "experience": "Має успішний досвід роботи з дітьми, дорослими чоловіками та жінками."
+    "info": "Має успішний досвід роботи з дітьми, дорослими чоловіками та жінками."
   },
 
   {
@@ -32,7 +32,7 @@
     "media": "team-images/trainer-2.png",
     "name": "Чередниченко Володимир",
     "level": "Тренер національної категорії України. ",
-    "experience": "Має великий та успішний досвід роботи з дітьми, дорослими та дітьми з інвалідністю."
+    "info": "Має великий та успішний досвід роботи з дітьми, дорослими та дітьми з інвалідністю."
   },
 
   {
@@ -41,7 +41,7 @@
     "media": "team-images/trainer-1.png",
     "name": "Pitek Vitaly",
     "level": "IBA 1-Stern-Trainer.",
-    "experience": "Er hat erfolgreiche Erfahrung in der Arbeit mit Kindern, erwachsenen Männern und von Frauen."
+    "info": "Er hat erfolgreiche Erfahrung in der Arbeit mit Kindern, erwachsenen Männern und von Frauen."
   },
 
   {
@@ -50,6 +50,6 @@
     "media": "team-images/trainer-2.png",
     "name": "Cherednychenko Volodymyr",
     "level": "Trainer der nationalen Kategorie der Ukraine.",
-    "experience": "Er hat große und erfolgreiche Erfahrung in der Arbeit mit Kindern, Erwachsenen und Kindern mit Behinderungen."
+    "info": "Er hat große und erfolgreiche Erfahrung in der Arbeit mit Kindern, Erwachsenen und Kindern mit Behinderungen."
   }
 ]
