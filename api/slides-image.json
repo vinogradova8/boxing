@@ -4,8 +4,23 @@
     "media": "slider-image/slide-1.jpg"
   },
 
-	{
+  {
     "id": 2,
-    "media": "slider-image/slide-1.jpg"
+    "media": "slider-image/slide-2.jpg"
+  },
+
+  {
+    "id": 3,
+    "media": "slider-image/slide-3.jpg"
+  },
+
+  {
+    "id": 4,
+    "media": "slider-image/slide-4.jpg"
+  },
+
+  {
+    "id": 5,
+    "media": "slider-image/slide-5.jpg"
   }
 ]
