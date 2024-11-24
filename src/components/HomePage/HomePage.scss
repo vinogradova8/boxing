@@ -73,14 +73,6 @@
         }
       }
     }
-
-    &--second {
-      margin: 0 auto;
-
-      @include on-tablet {
-        margin-right: 0;
-      }
-    }
   }
 
   &__small-title {

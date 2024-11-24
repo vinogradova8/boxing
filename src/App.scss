@@ -8,6 +8,7 @@
   background-color: $black-color;
   display: flex;
   flex-direction: column;
+	cursor: default;
 }
 
 html::-webkit-scrollbar {
@@ -56,12 +57,12 @@ main {
 
 	@include hover(outline, 3px solid $main-text-color);
 
-  &--disabled {
-		@include hover(outline, none);
+  // &--disabled {
+	// 	@include hover(outline, none);
 
-    opacity: 0.5;
-		cursor: auto;
-  }
+  //   opacity: 0.5;
+	// 	cursor: auto;
+  // }
 }
 
 .links-box {

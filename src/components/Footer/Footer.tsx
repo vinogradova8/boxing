@@ -1,7 +1,7 @@
 /* eslint-disable max-len */
 import React from 'react';
 import './Footer.scss';
-import { scrollToTop } from '../../api/fetchClient';
+import { scrollToTop } from '../../api/client';
 
 export const Footer: React.FC = ({}) => {
   return (

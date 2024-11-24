@@ -104,7 +104,7 @@
 
   &__language-drop-down {
     position: relative;
-    cursor: pointer;
+    cursor: default;
   }
 
   &__burger {
@@ -222,6 +222,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+		cursor: pointer;
 
     &::before {
       position: absolute;
@@ -261,18 +262,7 @@
 
     &--disabled {
       opacity: 0.5;
-    }
-  }
-}
-
-.language-button {
-  &:hover {
-    cursor: pointer;
-  }
-
-  &--disabled {
-    &:hover {
-      cursor: auto;
+			cursor: default;
     }
   }
 }
