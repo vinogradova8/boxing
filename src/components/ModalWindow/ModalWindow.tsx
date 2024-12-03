@@ -145,6 +145,7 @@ export const ModalWindow: React.FC = ({}) => {
       );
 
       setIsModalWindowOpen(false);
+      bodyTag?.classList.remove('fixed');
     } catch {
       setErrorMessage(true);
     }
