@@ -19,7 +19,7 @@ export const HomePage: React.FC = ({}) => {
         <section className="homepage__main-section main-section">
           <div className="main-section__container">
             <div className="homepage__title-box">
-              <h1 className="homepage__title title">Tand</h1>
+              <h1 className="homepage__title title">Tandem</h1>
             </div>
 
             <div className="homepage__main-info">
