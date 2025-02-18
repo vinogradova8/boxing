@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export default axios.create({
-  baseURL: 'https://d1g3i7mr74vp7j.cloudfront.net',
+  baseURL: 'https://d2t50r4w33jawh.cloudfront.net',
 });
 
 export const gallery = axios.create({
